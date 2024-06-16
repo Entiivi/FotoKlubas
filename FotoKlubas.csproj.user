@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\User\Desktop\duom_bazes\Praktika\FotoKlubas\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Create_Account_Langas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nario_Pinformacijos_langas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nario_Info_Langas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Upload_Photo_Langas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Narys_Pagrindinis_Langas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login_Langas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
